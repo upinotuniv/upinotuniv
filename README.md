@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upinotuniv&label=Profile%20views&color=0e75b6&style=flat" alt="upinotuniv" /> </p>
 
-- 🙇🏼‍♂️ What Am I currently learning? **I have interest to Swift Programming, React JS, Next JS, and Node JS**
-
+- 🙇🏼‍♂️ What Am I currently learning? **I have interest to Swift and Javascript Programming**
+- 🙋🏻‍♂️ Front End Developer
+- 📌 Live in Bandung, West Java, Indonesia
 - 📩 You can reach me at **luthfy1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
